@@ -5,5 +5,5 @@
 This repository contains exercises and practises performed during Python for everybody course.
 
 
-## Topics covered
+## File descriptions
 
