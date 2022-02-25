@@ -6,6 +6,8 @@ of a gmane repository using the instructions at:
 
 http://gmane.org/export.php
 
+![image](model.png)
+
 In order not to overwhelm the gmane.org server, I have put up 
 my own copy of the messages at: 
 
