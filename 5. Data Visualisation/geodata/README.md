@@ -6,6 +6,8 @@ to clean up some user-entered geographic locations of
 university names and then placing the data on a Google
 Map.
 
+![model](model.png)
+
 Note: Windows has difficulty in displaying UTF-8 characters
 in the console so for each command window you open, you may need
 to type the following command before running this code:
